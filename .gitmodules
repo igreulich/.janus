@@ -4,3 +4,6 @@
 [submodule "vim-powerline"]
 	path = vim-powerline
 	url = git://github.com/Lokaltog/vim-powerline.git
+[submodule "vim-jsx"]
+	path = vim-jsx
+	url = https://github.com/mxw/vim-jsx.git
