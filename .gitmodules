@@ -13,3 +13,6 @@
 [submodule "vim-javascript"]
 	path = vim-javascript
 	url = https://github.com/pangloss/vim-javascript.git
+[submodule "elm.vim"]
+	path = elm.vim
+	url = https://github.com/lambdatoast/elm.vim.git
