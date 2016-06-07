@@ -34,3 +34,6 @@
 [submodule "nerdtree-git-plugin"]
 	path = nerdtree-git-plugin
 	url = git@github.com:Xuyuanp/nerdtree-git-plugin.git
+[submodule "syntastic-local-eslint.vim"]
+	path = syntastic-local-eslint.vim
+	url = git@github.com:mtscout6/syntastic-local-eslint.vim.git
