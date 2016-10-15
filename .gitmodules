@@ -1,39 +1,15 @@
 [submodule "vim-align"]
 	path = vim-align
 	url = git://github.com/tsaleh/vim-align.git
-[submodule "vim-powerline"]
-	path = vim-powerline
-	url = git://github.com/Lokaltog/vim-powerline.git
 [submodule "vim-jsx"]
 	path = vim-jsx
 	url = https://github.com/mxw/vim-jsx.git
-[submodule "syntastic"]
-	path = syntastic
-	url = git@github.com:scrooloose/syntastic.git
-[submodule "vim-javascript"]
-	path = vim-javascript
-	url = https://github.com/pangloss/vim-javascript.git
-[submodule "elm.vim"]
-	path = elm.vim
-	url = https://github.com/lambdatoast/elm.vim.git
-[submodule "vim-monokai"]
-	path = vim-monokai
-	url = git@github.com:crusoexia/vim-monokai.git
 [submodule "vim-javascript-lib"]
 	path = vim-javascript-lib
 	url = git@github.com:crusoexia/vim-javascript-lib.git
-[submodule "vim-monokai-black"]
-	path = vim-monokai-black
-	url = git@github.com:while1eq1/vim-monokai-black.git
-[submodule "molokai"]
-	path = molokai
-	url = git@github.com:tomasr/molokai.git
 [submodule "molokai_dark"]
 	path = molokai_dark
 	url = git@github.com:fcevado/molokai_dark.git
 [submodule "nerdtree-git-plugin"]
 	path = nerdtree-git-plugin
 	url = git@github.com:Xuyuanp/nerdtree-git-plugin.git
-[submodule "syntastic-local-eslint.vim"]
-	path = syntastic-local-eslint.vim
-	url = git@github.com:mtscout6/syntastic-local-eslint.vim.git
