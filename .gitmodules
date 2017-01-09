@@ -28,3 +28,6 @@
 [submodule "vim-numbertoggle"]
 	path = vim-numbertoggle
 	url = git@github.com:jeffkreeftmeijer/vim-numbertoggle.git
+[submodule "YouCompleteMe"]
+	path = YouCompleteMe
+	url = git@github.com:Valloric/YouCompleteMe.git
