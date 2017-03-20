@@ -13,18 +13,9 @@
 [submodule "nerdtree-git-plugin"]
 	path = nerdtree-git-plugin
 	url = git@github.com:Xuyuanp/nerdtree-git-plugin.git
-[submodule "apiblueprint.vim"]
-	path = apiblueprint.vim
-	url = git@github.com:kylef/apiblueprint.vim.git
 [submodule "vim-obsession"]
 	path = vim-obsession
 	url = git@github.com:tpope/vim-obsession.git
-[submodule "vim-tmux"]
-	path = vim-tmux
-	url = git@github.com:tmux-plugins/vim-tmux.git
-[submodule "vim-tmux-focus-events"]
-	path = vim-tmux-focus-events
-	url = git@github.com:tmux-plugins/vim-tmux-focus-events.git
 [submodule "vim-numbertoggle"]
 	path = vim-numbertoggle
 	url = git@github.com:jeffkreeftmeijer/vim-numbertoggle.git
