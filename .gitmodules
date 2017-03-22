@@ -25,3 +25,6 @@
 [submodule "vim-javascript"]
 	path = vim-javascript
 	url = https://github.com/pangloss/vim-javascript.git
+[submodule "postcss.vim"]
+	path = postcss.vim
+	url = git@github.com:stephenway/postcss.vim.git
