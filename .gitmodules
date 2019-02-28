@@ -31,3 +31,6 @@
 [submodule "vim-airline"]
 	path = vim-airline
 	url = https://github.com/vim-airline/vim-airline
+[submodule "nerdtree-git-plugin"]
+	path = nerdtree-git-plugin
+	url = git@github.com:Xuyuanp/nerdtree-git-plugin.git
