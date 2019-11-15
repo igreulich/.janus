@@ -34,3 +34,6 @@
 [submodule "nerdtree-git-plugin"]
 	path = nerdtree-git-plugin
 	url = git@github.com:Xuyuanp/nerdtree-git-plugin.git
+[submodule "vim-markdown-preview"]
+	path = vim-markdown-preview
+	url = git@github.com:JamshedVesuna/vim-markdown-preview.git

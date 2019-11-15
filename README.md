@@ -11,6 +11,10 @@
     git submodule init
     git submodule update
 
+## Add
+
+    git submodule add [git repo address]
+
 ## Update
 
     git submodule foreach git pull origin master
