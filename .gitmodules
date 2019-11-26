@@ -37,3 +37,6 @@
 [submodule "vim-markdown-preview"]
 	path = vim-markdown-preview
 	url = git@github.com:JamshedVesuna/vim-markdown-preview.git
+[submodule "vim-devicons"]
+	path = vim-devicons
+	url = git@github.com:ryanoasis/vim-devicons.git
