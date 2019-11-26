@@ -19,3 +19,6 @@
 [submodule "vim-devicons"]
 	path = vim-devicons
 	url = git@github.com:ryanoasis/vim-devicons.git
+[submodule "vim-airline-themes"]
+	path = vim-airline-themes
+	url = git@github.com:vim-airline/vim-airline-themes.git
