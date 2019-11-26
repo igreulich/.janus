@@ -1,6 +1,3 @@
-[submodule "vim-align"]
-	path = vim-align
-	url = git://github.com/tsaleh/vim-align.git
 [submodule "vim-jsx"]
 	path = vim-jsx
 	url = https://github.com/mxw/vim-jsx.git
@@ -10,33 +7,15 @@
 [submodule "molokai_dark"]
 	path = molokai_dark
 	url = git@github.com:fcevado/molokai_dark.git
-[submodule "vim-obsession"]
-	path = vim-obsession
-	url = git@github.com:tpope/vim-obsession.git
-[submodule "vim-numbertoggle"]
-	path = vim-numbertoggle
-	url = git@github.com:jeffkreeftmeijer/vim-numbertoggle.git
-[submodule "YouCompleteMe"]
-	path = YouCompleteMe
-	url = git@github.com:Valloric/YouCompleteMe.git
 [submodule "vim-javascript"]
 	path = vim-javascript
 	url = https://github.com/pangloss/vim-javascript.git
-[submodule "postcss.vim"]
-	path = postcss.vim
-	url = git@github.com:stephenway/postcss.vim.git
-[submodule "powerline"]
-	path = powerline
-	url = git@github.com:powerline/powerline.git
 [submodule "vim-airline"]
 	path = vim-airline
 	url = https://github.com/vim-airline/vim-airline
 [submodule "nerdtree-git-plugin"]
 	path = nerdtree-git-plugin
 	url = git@github.com:Xuyuanp/nerdtree-git-plugin.git
-[submodule "vim-markdown-preview"]
-	path = vim-markdown-preview
-	url = git@github.com:JamshedVesuna/vim-markdown-preview.git
 [submodule "vim-devicons"]
 	path = vim-devicons
 	url = git@github.com:ryanoasis/vim-devicons.git
