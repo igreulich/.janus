@@ -4,9 +4,6 @@
 [submodule "vim-javascript-lib"]
 	path = vim-javascript-lib
 	url = git@github.com:crusoexia/vim-javascript-lib.git
-[submodule "molokai_dark"]
-	path = molokai_dark
-	url = git@github.com:fcevado/molokai_dark.git
 [submodule "vim-javascript"]
 	path = vim-javascript
 	url = https://github.com/pangloss/vim-javascript.git
@@ -22,3 +19,6 @@
 [submodule "vim-airline-themes"]
 	path = vim-airline-themes
 	url = git@github.com:vim-airline/vim-airline-themes.git
+[submodule "space-vim-dark"]
+	path = space-vim-dark
+	url = git@github.com:liuchengxu/space-vim-dark.git
